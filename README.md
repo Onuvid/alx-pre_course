@@ -1,1 +1,2 @@
-my first git coding 
+my first readme file
+update 
